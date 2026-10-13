@@ -68,7 +68,7 @@ export default function Footer() {
           })}
         </div>
         <nav>
-          <a href="#">Privacy</a>
+          <a href="#/privacy">Privacy</a>
           <a href="#">Terms</a>
           <a href="#">Cookies</a>
         </nav>
